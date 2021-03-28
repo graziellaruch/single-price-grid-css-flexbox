@@ -23,10 +23,10 @@ body {
     font-family: 'Karla', sans-serif;
     font-size: 1.1rem;
     line-height: 1.5;
-    width: 50%;
+    width: 100%;
     background-color: var(--Pink);
     color: var(--Grayish-Blue);
-    height: 100vh;
+    height: 50vh;
 
 
 }
