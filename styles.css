@@ -23,8 +23,8 @@ body {
     font-size: 1.1rem;
     line-height: 1.5;
     width: 100%;
-    background-color: var(--Cyan);
-    color: var(--Grayish-Blue);
+    background-color: var(--Light-Gray);
+    color: var(--Cyan);
     height: 100vh;
 
 
